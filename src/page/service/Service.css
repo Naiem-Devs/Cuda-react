@@ -1,0 +1,24 @@
+.service_section {
+    background: #17c2a4;
+}
+.singel_service.text-center {
+    color: #fff;
+    padding: 0 25px;
+}
+
+.singel_service.text-center p {
+    color: #fff;
+}
+
+.singel_service.text-center img {
+    margin-bottom: 30px;
+}
+
+.singel_service.text-center h4 {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.d-flex.all_service {
+    justify-content: space-around;
+}

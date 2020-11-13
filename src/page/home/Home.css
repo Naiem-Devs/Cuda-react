@@ -1,0 +1,10 @@
+.hero_section {
+    background: #87509c;
+    padding: 250px 0 150px;
+}
+.hero_content h1 {
+    font-size: 42px;
+    color: #fff;
+    font-weight: 600;
+    margin-bottom: 50px;
+}

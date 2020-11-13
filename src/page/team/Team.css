@@ -1,0 +1,31 @@
+.team_section.p_100 {
+    background: #e7f1f8;
+}
+.parson {
+    text-align: center;
+}
+
+.parson img {
+    border-radius: 50%;
+    height: 200px;
+    margin-bottom: 30px;
+}
+.parson img {
+    width: 200px;
+  }
+.parson h4 {
+    font-weight: 700;
+    text-transform: capitalize;
+}
+
+.parson span {
+    color: #30bae7;
+    font-weight: 600;
+    display: block;
+    margin-bottom: 10px;
+    text-transform: capitalize;
+}
+
+.parson p {
+    padding: 0 25px;
+}

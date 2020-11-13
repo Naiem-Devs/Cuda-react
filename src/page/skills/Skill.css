@@ -1,0 +1,28 @@
+.singel_skill svg.CircularProgressbar.colorA path.CircularProgressbar-path {
+    stroke: #30bae7;
+}
+.singel_skill svg.CircularProgressbar.colorB path.CircularProgressbar-path {
+    stroke: #d74680;
+}
+.singel_skill svg.CircularProgressbar.colorC path.CircularProgressbar-path {
+    stroke: #ffdd99;
+}
+.singel_skill svg.CircularProgressbar.colorD path.CircularProgressbar-path {
+    stroke: #3c5499;
+}
+.CircularProgressbar .CircularProgressbar-text {
+    fill: #112835;
+    font-weight: 600;
+}
+.singel_skill {
+    width: 200px;
+}
+
+.skills.text-center.d-flex {
+    justify-content: space-between;
+}
+.singel_skill h4 {
+    font-weight: 700;
+    margin-top: 15px;
+    font-size: 30px;
+}

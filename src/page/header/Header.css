@@ -1,0 +1,37 @@
+
+.header {
+    position: absolute;
+    width: 100%;
+    margin: auto;
+    top: 10%;
+}
+.logo a img {
+    width: 120px;
+    
+}
+.mein_menu nav ul {
+    text-align: right;
+    margin-top: 10px;
+}
+.mein_menu nav ul li {
+  list-style: none;
+  display: inline-block;
+  margin: 0 5px;
+}
+.mein_menu nav ul li a {
+    color: #fff;
+    font-weight: 600;
+    font-family: 'Titillium Web', sans-serif;
+    padding: 10px 20px;
+    transition: .4s;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.mein_menu nav ul li a:hover {
+    background: #00000061;
+    border-radius: 5px;
+}
+.mein_menu nav ul li a.active {
+    background: #00000061;
+    border-radius: 5px;
+}

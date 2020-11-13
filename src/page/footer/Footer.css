@@ -1,0 +1,25 @@
+footer {
+    background: #344b8e;
+    padding: 30px 0;
+    border-top: 1px solid #ffffff21;
+}
+
+.footer_menu ul {
+    text-align: center;
+}
+
+.footer_menu ul li {
+    display: inline-block;
+    margin: 0 30px;
+}
+
+.footer_menu ul li a {
+    font-size: 20px;
+    font-weight: 600;
+    color: #eb7d4b;
+    text-transform: uppercase;
+    line-height: 0;
+}
+.footer_menu ul li a.active{
+    color: #fff;
+}
